@@ -1,5 +1,6 @@
 #WIP
-I've been playing a lot of magic these days with @rrgayhart and figured it would be wise to make an app to keep track of scores/colors/decks; because SCIENCE and enough trees died already to make mergic curds.  
+
+I've been playing a lot of magic these days with [Meeka](https://github.com/rrgayhart) and figured it would be wise to make an app to keep track of scores/colors/decks; because SCIENCE and enough trees died already to make mergic curds.  
 
 :heart: :purple_heart: :heart: 
 
