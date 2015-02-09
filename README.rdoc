@@ -1,9 +1,4 @@
-#WIP
-
-I've been playing a lot of magic these days with [Meeka](http://www.github.com/rrgayhart) and figured it would be wise to make an app to keep track of scores/colors/decks; because SCIENCE and enough trees died already to make mergic curds.  
-
 :heart: :purple_heart: :heart: 
-
 
 *Ruby/Rails* ->
 2.1.3/4.0.2
