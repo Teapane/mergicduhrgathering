@@ -1,9 +1,0 @@
-:heart: :purple_heart: :heart: 
-
-*Ruby/Rails* ->
-2.1.3/4.0.2
-
-*Specs* ->
-Minitest
-
-:whale: 
